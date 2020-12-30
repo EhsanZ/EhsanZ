@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://github.com/yart-app project 
 - 🌱 I’m currently learning “Enterprise Architecture”
-- 👯 I’m looking to collaborate on https://github.com/obahareth/notion-rtl, https://github.com/elixir-lang/elixir, https://github.com/elixirschool/elixirschool
+- 👯 I’m looking to collaborate on https://github.com/obahareth/notion-rtl, https://github.com/elixir-lang/elixir, https://github.com/ruby/ruby
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Engineering Management, E-commerce Architecture
 - 📫 How to reach me: dev.e7san@gmail.com
