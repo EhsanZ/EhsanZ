@@ -10,7 +10,7 @@ It's a unisex name too, and that makes it more beautiful.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on https://github.com/yart-app project 
+- 🔭 I’m currently working as the head of engineering at https://github.com/zidsa, and on https://github.com/yart-app project.
 - 🌱 I’m currently learning “Enterprise Architecture”
 - 👯 I’m looking to collaborate on https://github.com/obahareth/notion-rtl, https://github.com/elixir-lang/elixir, https://github.com/ruby/ruby
 - 🤔 I’m looking for help with ...
